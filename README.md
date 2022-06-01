@@ -1,6 +1,8 @@
 # nginx-proxy
 
-Este proyecto es creado a partir del sitio (https://blog.ssdnodes.com/blog/host-multiple-ssl-websites-docker-nginx/)
+Este proyecto es creado a partir del sitio [Hosting multiple SSL-enabled sites with Docker and Nginx](https://blog.ssdnodes.com/blog/host-multiple-ssl-websites-docker-nginx/)
+
+Este proyecto tiene el objetivo de desplegar en un servidor linux multiples sitios en contenedores docker, cada sitio debe tener su propio dominio ó subdominio dependiendo el caso, y cada sitio con certificado ssl
 
 # Hosting multiple SSL-enabled sites with Docker and Nginx
 
