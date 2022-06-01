@@ -10,7 +10,7 @@ services:
     volumes:
       - conf:/etc/nginx/conf.d
       - vhost:/etc/nginx/vhost.d
-      - ./index.html:/usr/share/nginx/html/index.html:ro
+      - html:/usr/share/nginx/html/
       - certs:/etc/nginx/certs
     labels:
       - "com.github.jrcs.letsencrypt_nginx_proxy_companion.nginx_proxy=true"
