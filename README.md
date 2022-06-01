@@ -155,3 +155,5 @@ I've found that most issues arise from `nginx-proxy-gen`. If you see an error ab
 ##
 
 If your three containers are running smoothly, then you're ready to start deploying other SSL-enabled containers behind the proxy! At this point, we're shifting away from configuring `nginx-proxy` and toward the ways, you should configure your apps to run behind it.
+
+---
