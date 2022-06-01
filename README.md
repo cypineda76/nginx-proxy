@@ -8,7 +8,8 @@ Este proyecto tiene el objetivo de desplegar en un servidor linux multiples siti
 
 Los puntos importantes para desplegar la reseta son los siguientes:
 - clonar este repositorio e ingresar al directorio
-- Luego ejecutar el siguiente comando ``` docker network create nginx-proxy ```
+- Luego ejecutar el siguiente comando `docker network create nginx-proxy`
+- Luego desplegar los contenedores con el comando `docker-compose up -d` *El usuario debe estar ubicado dentro del directorio*
 
 # Hosting multiple SSL-enabled sites with Docker and Nginx
 
