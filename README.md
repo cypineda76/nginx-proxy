@@ -4,7 +4,7 @@ Este proyecto es creado a partir del sitio [Hosting multiple SSL-enabled sites w
 
 Este proyecto tiene el objetivo de desplegar en un servidor linux multiples sitios en contenedores docker, cada sitio debe tener su propio dominio ó subdominio dependiendo el caso, y cada sitio con certificado ssl
 
-Los archivos `nginx.tmpl` y `docker-compose.yml` ya se encuentran en este repositorio, en caso de recrear el proceso, se puede seguir el paso a paso que se tiene acontinuación o revisar el link del sitio.
+*Los archivos `nginx.tmpl` y `docker-compose.yml` ya se encuentran en este repositorio, en caso de recrear el proceso, se puede seguir el paso a paso que se tiene acontinuación o revisar el link del sitio*.
 
 # Hosting multiple SSL-enabled sites with Docker and Nginx
 
