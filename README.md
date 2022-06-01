@@ -12,6 +12,8 @@ Los puntos importantes para desplegar la reseta son los siguientes
 - Luego ejecutar el siguiente comando `docker network create nginx-proxy`
 - Luego desplegar los contenedores con el comando `docker-compose up -d` *El usuario debe estar ubicado dentro del directorio*
 
+---
+
 # Hosting multiple SSL-enabled sites with Docker and Nginx
 
 Written by [Joel Hans](https://blog.ssdnodes.com/blog/author/joel/ "Joel Hans")
